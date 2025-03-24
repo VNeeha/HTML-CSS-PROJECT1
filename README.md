@@ -1,0 +1,1 @@
+A responsive webpage using only html and css, no frameworks.
